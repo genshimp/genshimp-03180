@@ -15,9 +15,26 @@ thumb_img_path: images/oval-avocado.jpg
 content_img_path: images/adorable-sage.jpg
 excerpt: Мона и её роль
 ---
-## Lorem ipsum
+## Мона и её роль в команде
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Одним из главных достоинств Моны является её возможность быстро внести десятки, а то и сотни тысяч урона по нескольким врагам. 
 
-- Lorem ipsum
-- dolor sit amet
+Есть два типа сборки по артефактам:
+
+*   Саппорт билд
+
+*   ДД билд
+
+В **ДД билде** мы качаем Моне все таланты, а в артефактах собираем следующие характеристики:
+
+*   Сила атаки
+
+*   Восстановление энергии
+
+*   Критический урон
+
+*   Шанс критического попалания
+
+В **саппорт билде **усиливаем ультимейт максимально. 
+
+![](/images/oval-pine.jpg)
