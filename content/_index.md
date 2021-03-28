@@ -1,7 +1,7 @@
 ---
 title: На Главную
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Читать далее
 seo:
   title: Блог о Genshin Impact
   description: Блог о Genshin Impact
