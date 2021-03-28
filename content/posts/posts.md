@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: Пара слов о Моне. Как собирать
+subtitle: 'Пара слов о Моне. Как собирать, с кем ставить'
 ---
 ## Lorem ipsum
 
