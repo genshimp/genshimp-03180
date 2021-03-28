@@ -1,10 +1,10 @@
 ---
-title: Home
+title: На Главную
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
-  description: The preview of the Fjord theme
+  title: Блог о Genshin Impact
+  description: Блог о Genshin Impact
   extra:
     - name: 'og:type'
       value: website
