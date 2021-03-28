@@ -1,6 +1,6 @@
 ---
 title: Обо мне
-subtitle: This is a short page about me and my work
+subtitle: Обо мне и моей работе
 img_path: images/about.jpg
 seo:
   title: About Me
