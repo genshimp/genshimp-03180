@@ -13,7 +13,7 @@ seo:
       value: Обо мне
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Обо мне и моей работе
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
