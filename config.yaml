@@ -10,7 +10,7 @@ params:
     background_img: images/oval-avocado.jpg
     has_nav: true
     nav_links:
-      - label: HomeГлавная
+      - label: Главная
         url: /
         style: link
       - label: About
