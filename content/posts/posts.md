@@ -2,7 +2,6 @@
 title: Мона - красотка и дамагер
 date: '2021-03-28'
 thumb_img_alt: Мона
-excerpt: Мона
 hide_header: false
 seo:
   title: ''
