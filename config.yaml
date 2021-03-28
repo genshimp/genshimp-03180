@@ -6,7 +6,7 @@ params:
     title: Genshin Blog
     tagline: 'Гайды, персонажи, прохождения Genshin Impact'
     logo_img: images/logo.svg
-    logo_img_alt: Fjord Logo
+    logo_img_alt: Genshin Logo
     background_img: images/oval-avocado.jpg
     has_nav: true
     nav_links:
