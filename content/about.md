@@ -4,7 +4,7 @@ subtitle: Обо мне и моей работе
 img_path: images/about.jpg
 seo:
   title: Обо мне
-  description: A page about me and my work
+  description: Обо мне и моей работе
   extra:
     - name: 'og:type'
       value: website
