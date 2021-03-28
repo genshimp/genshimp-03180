@@ -16,10 +16,16 @@ params:
       - label: Обо мне
         url: /about
         style: link
-
       - label: Связаться со мной
         url: /contact
         style: link
+      - label: Гайды
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     has_social: true
     social_links:
       - label: Twitter
