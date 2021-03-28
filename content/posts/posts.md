@@ -13,6 +13,7 @@ seo:
 layout: post
 subtitle: 'Пара слов о Моне. Как собирать, с кем ставить'
 thumb_img_path: images/oval-avocado.jpg
+content_img_path: images/adorable-sage.jpg
 ---
 ## Lorem ipsum
 
