@@ -19,7 +19,7 @@ params:
       - label: Связаться со мной
         url: /contact
         style: link
-      - label: lorem-ipsum
+      - label: Гайды
         url: '#'
         style: link
         icon_class: dev
