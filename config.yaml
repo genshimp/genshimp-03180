@@ -16,7 +16,7 @@ params:
       - label: Обо мне
         url: /about
         style: link
-      -
+
       - label: Связаться со мной
         url: /contact
         style: link
