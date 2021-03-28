@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Блог о Genshin Impact
-  description: The preview of the Fjord theme
+  description: Блог о 
   extra:
     - name: 'og:type'
       value: website
