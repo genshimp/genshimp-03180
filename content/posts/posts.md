@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 subtitle: 'Пара слов о Моне. Как собирать, с кем ставить'
+thumb_img_path: images/oval-avocado.jpg
 ---
 ## Lorem ipsum
 
