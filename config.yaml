@@ -20,7 +20,7 @@ params:
         url: /contact
         style: link
       - label: Гайды
-        url: '#'
+        url: /guides/
         style: link
         icon_class: dev
         new_window: false
