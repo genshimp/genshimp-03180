@@ -4,7 +4,7 @@ params:
   palette: yellow
   header:
     title: Genshin Blog
-    tagline: Minimal and clean blog theme
+    tagline: 'Гайды, персонажи, прохождения '
     logo_img: images/logo.svg
     logo_img_alt: Fjord Logo
     background_img: images/oval-avocado.jpg
