@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Блог о Genshin Impact
-  description: Блог о 
+  description: Блог о Genshin Impact
   extra:
     - name: 'og:type'
       value: website
