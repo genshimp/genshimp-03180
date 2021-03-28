@@ -3,7 +3,7 @@ title: На Главную
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Блог о 
+  title: Блог о Genshin Impact
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
